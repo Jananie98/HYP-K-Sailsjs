@@ -27,3 +27,4 @@ Note:  Generators are usually run using the globally-installed `sails` CLI (comm
 -->
 
 "# hyp-k-SailsJS" 
+"# HYP-K-Sailsjs" 
