@@ -131,4 +131,6 @@ lib-cov
 *.log
 *.out
 *.pid
+.vscode
+node_modules
 
